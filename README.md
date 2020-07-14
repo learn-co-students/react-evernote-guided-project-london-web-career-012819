@@ -1,6 +1,7 @@
 README: React Evernote
 ======================
 
+
 Task Lister is making its return in React! However, this time we'll be kicking it up a notch and using that same backend to drive an Evernote-like frontend built in React.
 
 Your goal will be to complete the baseline deliverables using the provided starter code and then make this project your own by building out unique stretch goals. Some suggestions are listed below, but try to be creative!
